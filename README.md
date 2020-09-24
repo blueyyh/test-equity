@@ -15,4 +15,3 @@
 - the rest controller is TradeController, there are 3 methods one is accept trade another is to review the current position result
 - the third is to initialize some demo data via running the trade service
 - insert/update/cancel are represented by InsertAction/UpdateAction/CancelAction
-- command pattern and chain of responsibility pattern is used
